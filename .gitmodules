@@ -1,0 +1,3 @@
+[submodule "cfAdmin"]
+	path = cfAdmin
+	url = https://github.com/content-foundry/cfAdmin.git
